@@ -12,22 +12,6 @@ Circle button widget for Android
 ![Button Example](https://github.com/markushi/android-circlebutton/raw/master/example/example.gif)
 
 
-
-Gradle dependency  ```build.gradle```
-
-```
-repositories {
-    mavenCentral()
-    mavenLocal()
-}
-
-...
-
-dependencies {
-    compile 'com.github.markushi:circlebutton:1.1'
-}
-```
-
 Example Usage:
 ```
 <FrameLayout
