@@ -9,9 +9,9 @@ E.g. the [Android Design Support Library](http://developer.android.com/tools/sup
 
 Circle button widget for Android
 
-![Button Example](example/example.gif)
+![Button Example](https://github.com/markushi/android-circlebutton/raw/master/example/example.gif)
 
-[Download an example apk](example/example.apk)
+
 
 Gradle dependency  ```build.gradle```
 
