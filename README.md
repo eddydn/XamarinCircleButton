@@ -1,5 +1,4 @@
-DEPRECATED
-====================
+
 This library for Xamarin.Android based on original library [Android Circle Button](https://github.com/markushi/android-circlebutton/blob/master/README.md)
 
 
