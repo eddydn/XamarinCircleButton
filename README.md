@@ -4,7 +4,7 @@ This library for Xamarin.Android based on original library [Android Circle Butto
 
 E.g. the [Android Design Support Library](http://developer.android.com/tools/support-library/index.html) offers a [FAB](http://developer.android.com/reference/android/support/design/widget/FloatingActionButton.html) implementation.
 
-android-circlebutton
+#Xamarin Circle Button
 ====================
 
 Circle button widget for Android
