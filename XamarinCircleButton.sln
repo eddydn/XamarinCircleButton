@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinCircleButton", "XamarinCircleButton.csproj", "{8C890EE9-FAC8-4B43-890D-848E8784EEE0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleButton.Droid", "CircleButton.Droid\CircleButton.Droid.csproj", "{495AAEAE-BC16-4E96-9AF3-85C8344FB394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleButtonQs", "qs\CircleButtonQs\CircleButtonQs.csproj", "{626A5305-BD40-46BD-9CFC-D04BE942D614}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8C890EE9-FAC8-4B43-890D-848E8784EEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8C890EE9-FAC8-4B43-890D-848E8784EEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8C890EE9-FAC8-4B43-890D-848E8784EEE0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{8C890EE9-FAC8-4B43-890D-848E8784EEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8C890EE9-FAC8-4B43-890D-848E8784EEE0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8C890EE9-FAC8-4B43-890D-848E8784EEE0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{495AAEAE-BC16-4E96-9AF3-85C8344FB394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495AAEAE-BC16-4E96-9AF3-85C8344FB394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495AAEAE-BC16-4E96-9AF3-85C8344FB394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495AAEAE-BC16-4E96-9AF3-85C8344FB394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626A5305-BD40-46BD-9CFC-D04BE942D614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626A5305-BD40-46BD-9CFC-D04BE942D614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626A5305-BD40-46BD-9CFC-D04BE942D614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626A5305-BD40-46BD-9CFC-D04BE942D614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CircleButton</id>
+    <version>1.1.0</version>
+    <authors>eddydn, tuyen</authors>
+    <owners>eddydn</owners>
+    <licenseUrl>https://raw.githubusercontent.com/markushi/android-circlebutton/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/eddydn/XamarinCircleButton</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/circlebutton/1.0.0/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin.Android binding library for CircleButton</description>
+    <releaseNotes>CircleButton v1.1</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>xamarin.android, xamarin-android, circelbutton, circle-button</tags>
+    <dependencies>
+      <!-- <dependency id="SampleDependency" version="1.0" /> -->
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="CircleButton.Droid/bin/Release/CircleButton.Droid.dll" target="lib/MonoAndroid10/CircleButton.Droid.dll" />
+  </files>
+</package>
